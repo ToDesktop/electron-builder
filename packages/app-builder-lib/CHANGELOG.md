@@ -1,5 +1,14 @@
 # app-builder-lib
 
+## 24.12.1
+
+### Patch Changes
+
+- [#8022](https://github.com/electron-userland/electron-builder/pull/8022) [`9d1d1508`](https://github.com/electron-userland/electron-builder/commit/9d1d150896a763d3630418bf5be8fd3a070c0c40) Thanks [@mmaietta](https://github.com/mmaietta)! - fix(mac): Update mac notarize keychain env var to be optional
+
+- Updated dependencies [[`f5340b73`](https://github.com/electron-userland/electron-builder/commit/f5340b732dc0a303743a2a924750e9861e3a345f)]:
+  - electron-publish@24.12.1
+
 ## 24.12.0
 
 ### Minor Changes

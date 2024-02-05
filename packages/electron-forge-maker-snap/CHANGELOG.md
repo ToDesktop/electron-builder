@@ -1,5 +1,12 @@
 # electron-forge-maker-snap
 
+## 24.12.1
+
+### Patch Changes
+
+- Updated dependencies [[`9d1d1508`](https://github.com/electron-userland/electron-builder/commit/9d1d150896a763d3630418bf5be8fd3a070c0c40)]:
+  - app-builder-lib@24.12.1
+
 ## 24.12.0
 
 ### Patch Changes
